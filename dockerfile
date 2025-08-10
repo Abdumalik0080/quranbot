@@ -17,4 +17,4 @@ WORKDIR /app
 COPY --from=build /app/out .
 
 # Botni ishga tushirish
-ENTRYPOINT ["dotnet", "Quranbot.dll"]
+ENTRYPOINT ["dotnet", "Quranbot.json"]
