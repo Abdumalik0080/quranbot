@@ -298,7 +298,7 @@ botClient.StartReceiving(async (bot, update, ct) =>
 }, (_, _, _) => Task.CompletedTask);
 
 Console.WriteLine("Bot ishga tushdi...");
-Console.ReadLine();
+await Task.Delay(Timeout.Infinite);
 
 public class QuranResponse
 {
