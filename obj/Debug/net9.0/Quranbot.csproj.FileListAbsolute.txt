@@ -16,3 +16,4 @@ C:\Users\Abdumalik\Quranbot\obj\Debug\net9.0\refint\Quranbot.dll
 C:\Users\Abdumalik\Quranbot\obj\Debug\net9.0\Quranbot.pdb
 C:\Users\Abdumalik\Quranbot\obj\Debug\net9.0\Quranbot.genruntimeconfig.cache
 C:\Users\Abdumalik\Quranbot\obj\Debug\net9.0\ref\Quranbot.dll
+C:\Users\Abdumalik\Quranbot\obj\Debug\net9.0\Quranbot.sourcelink.json
