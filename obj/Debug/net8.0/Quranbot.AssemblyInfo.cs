@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quranbot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c8ce9aee7265e44e16582eef19e599fe95956bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e174c474f4fdd267b52d86ea0723bf91a75113d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quranbot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quranbot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
